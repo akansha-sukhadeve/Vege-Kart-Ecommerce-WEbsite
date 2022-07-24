@@ -1,0 +1,22 @@
+#logo{
+
+    padding-left:200px;
+    padding-top:100px;
+    
+}
+#logo .text{
+    color:rgb(196, 18, 60);
+    padding-top:100px;
+    padding-left:10px;
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image:url("vegecart.jpg");
+    background-repeat:no-repeat;
+    height:300px;
+    text-shadow: 2ch rgba(196, 18, 60, 0.263);
+   
+}
+#logo h1{
+    margin-bottom:300px;
+  
+}
