@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3>SoundSculpt</h3>
+  <h3>Vege-Kart</h3>
   <div>
     <a href="https://thenewc0der-24.github.io/SoundSculpt/">View Demo</a>
     ·
@@ -11,9 +11,6 @@
     <a href="https://github.com/TheNewC0der-24/SoundSculpt/issues/new">Request Feature</a>
   </div>
 </div>
-
-![license-shield] [![LinkedIn][linkedin-shield]][linkedin-url]
----
 
 <!-- TABLE OF CONTENTS -->
 <details open>
