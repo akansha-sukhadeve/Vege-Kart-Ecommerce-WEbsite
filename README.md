@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>Vege-Kart</h3>
-
+</div>
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
