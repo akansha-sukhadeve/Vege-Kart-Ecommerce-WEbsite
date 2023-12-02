@@ -3,14 +3,6 @@
 
 <div align="center">
   <h3>Vege-Kart</h3>
-  <div>
-    <a href="https://thenewc0der-24.github.io/SoundSculpt/">View Demo</a>
-    ·
-    <a href="https://github.com/TheNewC0der-24/SoundSculpt/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/TheNewC0der-24/SoundSculpt/issues/new">Request Feature</a>
-  </div>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details open>
