@@ -4,6 +4,14 @@
 <div align="center">
   <h3>Vege-Kart</h3>
 </div>
+<p align="center">
+<img  width="700px" src="https://github.com/akansha-sukhadeve/Vege-Kart-Ecommerce-WEbsite/blob/ecom/screenshots/Screenshot1.png"  alt =" " style="border: solid 1px #d4d4d4" /> 
+</p>
+<br>
+<p align="center">
+<img align="center" width="700px" src="https://github.com/akansha-sukhadeve/Vege-Kart-Ecommerce-WEbsite/blob/ecom/screenshots/Screenshot2.png"  alt =" " style="border: solid 1px #d4d4d4" />
+</p>
+<br>
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary><h2>Table of Contents</h2></summary>
